@@ -7,10 +7,9 @@ import subprocess
 #############################################
 ### Plz change below for your environment ###
 
-#SERVER='sel-odyssey-git.wrs.com'
-SERVER='sel-odyssey-git.wrs.com'
-SOURCE_DIR='/home/dkwon/Projects/PIVI/source/'
-BRANCH_NAME='proteus_release'
+SERVER=
+SOURCE_DIR=
+BRANCH_NAME=
 
 #############################################
 
